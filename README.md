@@ -30,6 +30,7 @@ git clone https://github.com/username/apiMaps.git
 bash
 Copy code
 cd apiMaps
+
 פתיחת הקובץ: פתח את index.html בדפדפן המועדף עליך.
 
 
