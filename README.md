@@ -23,7 +23,9 @@ Capital City Info הוא פרויקט שמאפשר למשתמשים להזין �
 bash
 Copy code
 git clone https://github.com/username/apiMaps.git
+
 כניסה לתיקייה:
+
 
 bash
 Copy code
