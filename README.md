@@ -1,37 +1,39 @@
 Capital City Info
+Description:
 
-תיאור:
-Capital City Info הוא פרויקט שמאפשר למשתמשים להזין שם של עיר בירה בעולם ולקבל פרטים על המדינה שבה היא נמצאת. היישום עושה שימוש ב-REST API שמספק מידע על מקומות בעולם.
+Capital City Info is a project that allows users to enter the name of a capital city in the world and receive information about the country it is located in. The application uses a REST API to provide data about places around the world.
 
+Live Project Link:
 
-קישור לפרויקט החי:
-[https://davidpulke.github.io/apiMaps/]
+https://davidpulke.github.io/apiMaps/
 
+Features
 
-תכונות עיקריות:
+Search for Information by Capital City: Users can enter the name of a capital city and receive details about the country it belongs to.
 
-חיפוש פרטים לפי עיר בירה: אפשרות להזין שם של עיר בירה ולקבל פרטים על המדינה שבה היא נמצאת.
+REST API Usage: The application utilizes an external API to fetch information about locations worldwide.
 
-שימוש ב-REST API: היישום משתמש ב-API חיצוני כדי לקבל את המידע על מקומות בעולם.
+User-Friendly Interface: Easy-to-use interface for entering the capital city and retrieving the required information.
 
-ממשק משתמש נוח: ממשק קל לשימוש להזנת שם עיר הבירה וקבלת המידע הנחוץ.
+Installation and Local Execution
 
-התקנה והרצה מקומית:
-
-שיבוט המאגר:
+Clone the repository:
 
 bash
+
 Copy code
+
 git clone https://github.com/username/apiMaps.git
 
-כניסה לתיקייה:
-
+Navigate to the project directory:
 
 bash
+
 Copy code
+
 cd apiMaps
 
-פתיחת הקובץ: פתח את index.html בדפדפן המועדף עליך.
+Open the file index.html in your preferred browser.
 
 
 ![countrysBG](https://github.com/user-attachments/assets/8ec9832e-c2b0-4939-831c-caeac6f7ea32)
