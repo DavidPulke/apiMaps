@@ -9,6 +9,9 @@ async function searchCountry() {
             if (capital.includes("je")) {
                 country = response.data[1];
             }
+            if (capital.includes('was')) {
+                country = response.data[1];
+            }
             const flag = country.flags.svg; // קבלת URL לדגל המדינה
             const name = country.name.common; // קבלת שם המדינה
             const population = country.population.toLocaleString(); // קבלת אוכלוסיית המדינה בפורמט נוח לקריאה
